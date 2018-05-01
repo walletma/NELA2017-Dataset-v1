@@ -7,6 +7,7 @@ If this data set is used in publication, please cite the following paper:
 Horne, Benjamin D., et al. "Sampling the News Producers: A Large News and Feature Data Set for the Study of the Complex Media Landscape." ICWSM 2018
 
 --------------------------------------------------------------------------------
+Due to the size of the data, the folders are compressed and split. These can be zipped back together using WINRAR, and then extracted.
 
 This data set contains news articles from 92 news sources between April 2017 and October 2017. 
 
